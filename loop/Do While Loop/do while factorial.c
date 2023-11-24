@@ -13,8 +13,8 @@ main()
 	{
 		sum=sum*a;
 		a++;
-		printf("%d",sum);
 	}
 	while(a<=n);
+	printf("%d",sum);
 }
 

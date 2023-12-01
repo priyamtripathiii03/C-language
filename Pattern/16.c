@@ -2,7 +2,7 @@
 
 main()
 {
-    int i,j,k=1;
+    int i,j;
 	
 	for(i=5; i>=1; i--)
 	{
